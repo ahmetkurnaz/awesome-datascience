@@ -46,7 +46,8 @@ by [@gwenthomasdgi](https://twitter.com/gwenthomasdgi) via [twitter](https://twi
 
 ## MOOC's
 
-* [Google Making Sense of Data](https://datasense.withgoogle.com/course) 
+* [Google Making Sense of Data](https://datasense.withgoogle.com/course)
+* [Coursera - Data Science Specialization](https://www.coursera.org/specialization/jhudatascience/1)
 * [Coursera Introduction to Data Science](https://www.coursera.org/course/datasci)
 * [CS 109 Data Science](http://cs109.org/)
 * [Schoolofdata](http://schoolofdata.org/)
